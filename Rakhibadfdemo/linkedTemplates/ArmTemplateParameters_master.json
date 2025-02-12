@@ -1,0 +1,42 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "Rakhibadfdemo"
+		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage_Snowflake_accountKey": {
+			"value": ""
+		},
+		"Snowflake1_password": {
+			"value": ""
+		},
+		"Snowflake2_password": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://adlaasccountgds1.dfs.core.windows.net/"
+		},
+		"AzureDataLakeStorage_Snowflake_properties_typeProperties_url": {
+			"value": "https://eventhub17storageaccount.dfs.core.windows.net/"
+		},
+		"Snowflake1_properties_typeProperties_database": {
+			"value": "SALES_MART"
+		},
+		"Snowflake1_properties_typeProperties_role": {
+			"value": "ACCOUNTADMIN"
+		},
+		"Snowflake2_properties_typeProperties_database": {
+			"value": "sales_mart"
+		},
+		"containerUri": {
+			"value": ""
+		},
+		"containerSasToken": {
+			"value": ""
+		}
+	}
+}
