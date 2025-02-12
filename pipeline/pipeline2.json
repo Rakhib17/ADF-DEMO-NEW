@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "ADLS-SNOWFLAKE PIPELINE",
+				"name": "Data flow17",
 				"type": "ExecuteDataFlow",
 				"dependsOn": [],
 				"policy": {
