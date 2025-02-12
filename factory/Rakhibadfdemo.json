@@ -1,0 +1,9 @@
+{
+	"name": "Rakhibadfdemo",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "55131909-8790-491d-8ef7-9be6859a68b5",
+		"tenantId": "4ffe8d1c-2e0f-42e3-ab07-6641825df9f5"
+	}
+}
